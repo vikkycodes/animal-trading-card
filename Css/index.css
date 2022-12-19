@@ -28,7 +28,7 @@ span {
 }
 
 img {
-    border: 3px solid black;
+    border: 2px solid rgb(22, 21, 21);
     width: 100%;
 }
 
@@ -42,7 +42,8 @@ img {
     height: 100%;
     width: 50%;
     background-color: hsl(219, 97%, 25%);
-    border: 3px solid black;
+    border: 2px solid rgb(22, 21, 21);
+    box-shadow: 10px 10px 30px rgb(53, 53, 53);
 }
 
 main {
@@ -52,5 +53,5 @@ main {
     background-color: white;
     height: 100%;
     padding: 20px;
-    border: 3px solid black;
+    border: 2px solid rgb(22, 21, 21);
 }
